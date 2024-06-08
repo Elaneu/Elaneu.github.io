@@ -101,3 +101,4 @@ generate_html_file("contact.html", "Contact", "Here will be your info.")
 subprocess.run(["git", "add", "."], check=True)
 subprocess.run(["git", "commit", "-m", "Update webpage content"], check=True)
 subprocess.run(["git", "push", "origin", "main"], check=True)
+
