@@ -23,7 +23,7 @@ html_content = """
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: yellow; /* Background color changed to yellow */
+            background-color: green; /* Background color changed to Green */
             margin: 0;
             padding: 20px;
         }
