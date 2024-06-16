@@ -2,7 +2,7 @@ import subprocess
 import os
 
 # Define the path to the repository directory
-repo_dir = r"C:\Users\User\Desktop\Web_Page\Scripts\Elaneu.github.io"
+repo_dir = r"path "
 
 # Change to the repository directory
 os.chdir(repo_dir)
